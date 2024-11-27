@@ -57,7 +57,7 @@ The notebook demonstrates how to:
 Alternatively, you can open the notebook directly in Colab using the following link:
 
 ```
-https://colab.research.google.com/github/your-username/your-repo-name/blob/main/StyleAligned_demo.ipynb
+https://drive.google.com/file/d/1bINJ8oA3zTSWLr4DF5-_jdaAHysuuiba/view?usp=sharing
 ```
 
 ## Usage
