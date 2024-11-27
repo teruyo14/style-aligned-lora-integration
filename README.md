@@ -8,7 +8,6 @@ This repository contains a **Google Colab** notebook that demonstrates how to ge
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Clone the Repository](#clone-the-repository)
   - [Open the Colab Notebook](#open-the-colab-notebook)
 - [Usage](#usage)
   - [Replacing Dummy Paths](#replacing-dummy-paths)
@@ -48,13 +47,7 @@ The notebook demonstrates how to:
   - Textual inversion embeddings
   - LoRA models in `.safetensors` format
 
-### Clone the Repository
 
-You can clone this repository to your local machine or directly open the notebook in Google Colab.
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
 
 ### Open the Colab Notebook
 
