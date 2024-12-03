@@ -14,7 +14,6 @@ This repository contains a **Google Colab** notebook that demonstrates how to ge
   - [Running the Notebook](#running-the-notebook)
   - [Using the Gradio Interface](#using-the-gradio-interface)
 - [Notes](#notes)
-- [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
