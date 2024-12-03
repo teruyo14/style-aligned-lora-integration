@@ -156,19 +156,6 @@ demo.launch(share=True)
 - **Resource Usage**: High-resolution image generation can be resource-intensive. Adjust image dimensions if you encounter memory issues.
 - **Gradio Sharing**: The `share=True` parameter in `demo.launch()` allows you to share the Gradio interface via a public link.
 
-## Citation
-
-If you use this code or find it helpful, please cite the original paper:
-
-```bibtex
-@article{style-aligned-2023,
-  title={Style Aligned Techniques for High-Resolution Image Generation},
-  author={Authors},
-  journal={arXiv preprint arXiv:2312.02133},
-  year={2023}
-}
-```
-
 ## Acknowledgements
 
 - [Google's Style-Aligned Repository](https://github.com/google/style-aligned/)
